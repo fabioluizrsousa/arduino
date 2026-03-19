@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { 
   Cpu, Lock, CheckCircle, Star, Trophy, 
-  ChevronRight, Play, RotateCcw, Zap, LockKeyhole, Award, Code2 
+  ChevronRight, Play, RotateCcw, Zap, LockKeyhole, Award, Code2, Terminal 
 } from "lucide-react";
 
 // ── CONFIGURAÇÕES E SONS ─────────────────────────────────────────────────────
